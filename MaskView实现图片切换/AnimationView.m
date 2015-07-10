@@ -125,7 +125,6 @@
         
     }
     
-    
     self.maskViewCount = count;
     
     // 存储
@@ -231,6 +230,5 @@
     
     return _image;
 }
-
 
 @end

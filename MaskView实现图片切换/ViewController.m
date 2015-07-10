@@ -72,7 +72,6 @@ typedef enum : NSUInteger {
         [self.view sendSubviewToBack:self.animationTwo];
         [self.animationTwo showAnimated:NO];
         [self.animationOne hideAnimated:YES];
-        
     } else {
         
         self.lsType = LSTypeONE;
